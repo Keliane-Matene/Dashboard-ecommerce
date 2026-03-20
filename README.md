@@ -9,7 +9,7 @@ L’objectif est d’identifier les tendances de ventes, la rentabilité des pro
 👉 https://public.tableau.com/views/ecommerce-dashboard-tableau/AnalysedePerformanceE-commerce
 
 ## 📊 Aperçu
-![Dashboard]("Dashboard png")
+![Dashboard](screenshot.png)
 
 
 ---
